@@ -30,7 +30,7 @@ npm install --save-dev eslint eslint-plugin-no-loops @typescript-eslint/parser @
 
 Название правила  | Состояние | Рекомендации 
 ----------------|----------------------|----------------------
-no-loops/no-loops | error | Использование ```map```, ```.forEach```, ```.filter```, ```.reduce``` 
+no-loops/no-loops | error | Использование ```.map```, ```.forEach```, ```.filter```, ```.reduce``` 
 no-await-in-loop | warn | -
 no-compare-neg-zero | warn | Не использовать сравнение с -0
 no-cond-assign | error | Не использовать операции присваивания в условных выражениях
